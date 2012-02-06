@@ -1,0 +1,41 @@
+10
+
+dir
+341
+svn://hermione/java/sjl.testing/src
+svn://hermione/java
+
+
+
+2011-07-17T11:40:44.127668Z
+341
+steve
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b420845-9244-444a-9d23-42db977cb7d4
+
+
+
+
+
+
+0
+
+main
+dir
+
+test
+dir
+
